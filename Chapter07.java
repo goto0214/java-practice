@@ -8,7 +8,7 @@ public class Chapter07 {
     } else if (m <= 15) {
       System.out.println("遠いです");
     } else {
-            System.out.println("とても遠いです");
+      System.out.println("とても遠いです");
     }
   }
 }
